@@ -34,7 +34,7 @@ _stipw_ begins by using logistic regression to model the treatment/exposure vari
 ### Example code
 
 * The help file provides example code.
-* Code for an example IPW analysis can be found here.
+* Code for an example IPW analysis can be found [here](https://github.com/Micki-Hill/stipw_sim_app/blob/main/Application/actg175_application.do).
 
 ### Presentations and publications
 
